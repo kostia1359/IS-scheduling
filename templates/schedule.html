@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+
+{% block scripts %}
+    <script src={{ url_for('static', filename="js/schedule.js") }}></script>
+    <link href="{{ url_for('static', filename="css/schedule.css") }}" rel="stylesheet"/>
+{% endblock %}
+
+{% block content %}
+    <div class="group_selector">
+        <select class="form-control" name="group-select" id="group-select" onchange="groupChanged()">
+        </select>
+    </div>
+    <div class="schedule">
+        <div class="day-column">
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+        </div>
+        <div class="day-column">
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+        </div>
+        <div class="day-column">
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+        </div>
+        <div class="day-column">
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+        </div>
+        <div class="day-column">
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+            <div class="course invisible">
+                <div class="title"></div>
+                <div class="teacher"></div>
+                <div class="room"></div>
+                <div class="type"></div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

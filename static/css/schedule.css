@@ -1,0 +1,31 @@
+.schedule {
+    display: flex;
+    justify-content: space-around;
+}
+
+.day-column {
+    width: 18%;
+}
+
+.course {
+    background-color: var(--highlight);
+    margin: 0.5em 0;
+    border-radius: 0.5em;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.course > .title {
+    background-color: var(--main-dark);
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    font-weight: bold;
+    color: var(--highlight);
+
+}
+
+.course > div {
+    padding: 0 0.5em;
+}

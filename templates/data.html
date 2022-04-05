@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block scripts %}
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.js" type="text/javascript"></script>
+    <script src={{ url_for('static', filename="js/database.js") }}></script>
+
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.css" rel="stylesheet" type="text/css" />
+    <link href="{{ url_for('static', filename="css/database.css") }}" rel="stylesheet"/>
+{% endblock %}
+
+{% block content %}
+    <div class="margin-top-10">
+        <div>
+            <select class="form-control" id="table-select" onchange="tableChanged()">
+                <option value="teachers">Teachers</option>
+                <option value="classrooms">Classrooms</option>
+            </select>
+        </div>
+        <div class="float-right">
+            <button id="btnAdd" type="button" class="gj-button-md">Add New Record</button>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+    <div class="margin-top-10">
+        <table id="grid"></table>
+    </div>
+
+    <div id="teacher-dialog" class="gj-display-none display-none">
+        <div data-role="body">
+            <div class="form-row">
+                <input type="text" class="gj-textbox-md" id="teacher-name" placeholder="Name...">
+            </div>
+            <div class="form-row">
+                <input type="text" class="gj-textbox-md" id="teacher-min_load" placeholder="Min load...">
+            </div>
+            <div class="form-row">
+                <input type="text" class="gj-textbox-md" id="teacher-max_load" placeholder="Max load...">
+            </div>
+        </div>
+        <div data-role="footer">
+            <button type="button" id="btnSave" class="gj-button-md">Save</button>
+            <button type="button" id="btnCancel" class="gj-button-md">Cancel</button>
+        </div>
+    </div>
+
+    <div id="classroom-dialog" class="gj-display-none display-none">
+        <div data-role="body">
+            <div class="form-row">
+                <input type="text" class="gj-textbox-md" id="classroom-id" placeholder="ID...">
+            </div>
+            <div class="form-row">
+                <input type="text" class="gj-textbox-md" id="classroom-capacity" placeholder="Capacity...">
+            </div>
+
+        </div>
+        <div data-role="footer">
+            <button type="button" id="btnSave" class="gj-button-md">Save</button>
+            <button type="button" id="btnCancel" class="gj-button-md">Cancel</button>
+        </div>
+    </div>
+{% endblock %}

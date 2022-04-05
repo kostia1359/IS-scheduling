@@ -1,0 +1,40 @@
+.form-row {
+    display: flex;
+    margin-bottom: 29px;
+}
+
+.form-row:last-child {
+    margin-bottom: 0;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.width-200 {
+    width: 200px;
+}
+
+.clear-both {
+    clear: both;
+}
+
+.gj-display-none {
+    display: none;
+}

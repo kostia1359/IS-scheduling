@@ -1,0 +1,1811 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "type": "lecture",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        0
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 1,
+      "type": "lecture",
+      "subject": "Programming",
+      "teacher": [
+        1
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 2,
+      "type": "lecture",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        9
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 3,
+      "type": "lecture",
+      "subject": "Discrete Math",
+      "teacher": [
+        10
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 4,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        3
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 5,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        4
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 6,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        12
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 7,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        13
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 8,
+      "type": "practice",
+      "subject": "Programming",
+      "teacher": [
+        7
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 9,
+      "type": "lecture",
+      "subject": "Programming",
+      "teacher": [
+        16
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 10,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        9
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 11,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        17
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 12,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        18
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 13,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        19
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 14,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        4
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 15,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        11
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 16,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        5
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 17,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        6
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 18,
+      "type": "practice",
+      "subject": "Programming",
+      "teacher": [
+        7
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 19,
+      "type": "lecture",
+      "subject": "Programming",
+      "teacher": [
+        16
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 20,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        9
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 21,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        20
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 22,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        21
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 23,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        22
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 24,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        4
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 25,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        3
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 26,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        14
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 27,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        15
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 28,
+      "type": "practice",
+      "subject": "Programming",
+      "teacher": [
+        7
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 29,
+      "type": "lecture",
+      "subject": "Programming",
+      "teacher": [
+        1
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 30,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        17
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 31,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        20
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 32,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        23
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 33,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        24
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 34,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        4
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 35,
+      "type": "practice",
+      "subject": "Discrete Math",
+      "teacher": [
+        11
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 36,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        0
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 37,
+      "type": "practice",
+      "subject": "Mathematical Analysis",
+      "teacher": [
+        8
+      ],
+      "lectures_count": 2,
+      "multiple": 0
+    },
+    {
+      "id": 38,
+      "type": "practice",
+      "subject": "Programming",
+      "teacher": [
+        7
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 39,
+      "type": "lecture",
+      "subject": "Programming",
+      "teacher": [
+        27
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 40,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        28
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 41,
+      "type": "practice",
+      "subject": "Algebra and Geometry",
+      "teacher": [
+        9
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 42,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        25
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 43,
+      "type": "practice",
+      "subject": "English",
+      "teacher": [
+        26
+      ],
+      "lectures_count": 3,
+      "multiple": 0
+    },
+    {
+      "id": 44,
+      "type": "lecture",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        29
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 45,
+      "type": "lecture",
+      "subject": "Operational research",
+      "teacher": [
+        30
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 46,
+      "type": "lecture",
+      "subject": "ISTTP",
+      "teacher": [
+        31
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 47,
+      "type": "lecture",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        32
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 48,
+      "type": "lecture",
+      "subject": "Numerical Methods",
+      "teacher": [
+        33
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 49,
+      "type": "lecture",
+      "subject": "Applied Algorithms",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 50,
+      "type": "lecture",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 51,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        36
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 52,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        37
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 53,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        32
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 54,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 55,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 56,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        39
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 57,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        40
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 58,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        33
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 59,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        41
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 60,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        42
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 61,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 62,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 63,
+      "type": "practice",
+      "subject": "Applied Algorithms",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 64,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        36
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 65,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        37
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 66,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        32
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 67,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 68,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 69,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        39
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 70,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        40
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 71,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        40
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 72,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        41
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 73,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        42
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 74,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 75,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 76,
+      "type": "practice",
+      "subject": "Applied Algorithms",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 77,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        36
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 78,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        30
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 79,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        44
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 80,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 81,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        31
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 82,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        39
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 83,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        45
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 84,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        40
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 85,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        41
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 86,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        42
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 87,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 88,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 89,
+      "type": "practice",
+      "subject": "Applied Algorithms",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 90,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        37
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 91,
+      "type": "practice",
+      "subject": "Operational research",
+      "teacher": [
+        46
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 92,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        44
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 93,
+      "type": "practice",
+      "subject": "Algorithms Theory",
+      "teacher": [
+        38
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 94,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        31
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 95,
+      "type": "practice",
+      "subject": "ISTTP",
+      "teacher": [
+        39
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 96,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        47
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 97,
+      "type": "practice",
+      "subject": "Numerical Methods",
+      "teacher": [
+        40
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 98,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        41
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 99,
+      "type": "practice",
+      "subject": "Mathematical Statistics",
+      "teacher": [
+        42
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 100,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 101,
+      "type": "practice",
+      "subject": "Data Bases and Informational Systems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 102,
+      "type": "practice",
+      "subject": "Applied Algorithms",
+      "teacher": [
+        34
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 103,
+      "type": "lecture",
+      "subject": "Scientific picture of the world",
+      "teacher": [
+        48
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 104,
+      "type": "lecture",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 105,
+      "type": "lecture",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 106,
+      "type": "lecture",
+      "subject": "Operational Systems",
+      "teacher": [
+        51
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 107,
+      "type": "lecture",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        52
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 108,
+      "type": "lecture",
+      "subject": "Cryptography",
+      "teacher": [
+        53
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 109,
+      "type": "lecture",
+      "subject": "Computational geometry",
+      "teacher": [
+        54
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 124,
+      "type": "lecture",
+      "subject": "Computer Algebra",
+      "teacher": [
+        55
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 135,
+      "type": "lecture",
+      "subject": "Development of Software",
+      "teacher": [
+        60
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 136,
+      "type": "lecture",
+      "subject": "Algorithms and Data Structures",
+      "teacher": [
+        62,
+        1
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 151,
+      "type": "lecture",
+      "subject": "Software development for mobile platforms",
+      "teacher": [
+        63
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 152,
+      "type": "lecture",
+      "subject": "Programming paradigms",
+      "teacher": [
+        64
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 110,
+      "type": "labs",
+      "subject": "Basics of Computer Algebra",
+      "teacher": [
+        55
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 111,
+      "type": "labs",
+      "subject": "Basics of Computer Algebra",
+      "teacher": [
+        55
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 112,
+      "type": "labs",
+      "subject": "Cryptography",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 113,
+      "type": "labs",
+      "subject": "Cryptography",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 114,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 115,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 116,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 117,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 118,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        56
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 119,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        57
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 120,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        58
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 121,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        58
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 122,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        54
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 123,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        59
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 125,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 126,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 127,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 128,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 129,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        51
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 130,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        58
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 131,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        61
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 132,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        57
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 133,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        59
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 134,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        59
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 137,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 138,
+      "type": "labs",
+      "subject": "System modelling methods",
+      "teacher": [
+        50
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 139,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 140,
+      "type": "labs",
+      "subject": "Distributed programming",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 141,
+      "type": "labs",
+      "subject": "Software development for mobile platforms",
+      "teacher": [
+        44
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 142,
+      "type": "labs",
+      "subject": "Software development for mobile platforms",
+      "teacher": [
+        44
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 143,
+      "type": "labs",
+      "subject": "Programming paradigms",
+      "teacher": [
+        64
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 144,
+      "type": "labs",
+      "subject": "Programming paradigms",
+      "teacher": [
+        64
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 145,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        51
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 146,
+      "type": "labs",
+      "subject": "Operational systems",
+      "teacher": [
+        58
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 147,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        61
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 148,
+      "type": "practice",
+      "subject": "Control theory and robotics",
+      "teacher": [
+        57
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 149,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        59
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 150,
+      "type": "labs",
+      "subject": "Computational geometry",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+
+
+
+    {
+      "id": 153,
+      "type": "lecture",
+      "subject": "Selected sections of Working Law",
+      "teacher": [
+        65,
+        66
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 154,
+      "type": "lecture",
+      "subject": "Intellectual systems",
+      "teacher": [
+        67
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 155,
+      "type": "lecture",
+      "subject": "Telecommunication technologies",
+      "teacher": [
+        68
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 156,
+      "type": "lecture",
+      "subject": "Parallel programming systems",
+      "teacher": [
+        49
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 157,
+      "type": "seminar",
+      "subject": "Refactoring problems",
+      "teacher": [
+        35
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 158,
+      "type": "lecture",
+      "subject": "Quantum computing",
+      "teacher": [
+        69
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 159,
+      "type": "seminar",
+      "subject": "Basics of Neural Networks",
+      "teacher": [
+        69
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 160,
+      "type": "seminar",
+      "subject": "Selected sections of Working Law",
+      "teacher": [
+        65
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 163,
+      "type": "labs",
+      "subject": "Telecommunication technologies",
+      "teacher": [
+        68
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 161,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 162,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        70
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 164,
+      "type": "seminar",
+      "subject": "Operational systems with time distributions",
+      "teacher": [
+        7
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 165,
+      "type": "lecture",
+      "subject": "Machine Learning",
+      "teacher": [
+        71
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 166,
+      "type": "lecture",
+      "subject": "Neural Networks",
+      "teacher": [
+        62
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 167,
+      "type": "seminar",
+      "subject": "Selected sections of Working Law",
+      "teacher": [
+        65
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 168,
+      "type": "labs",
+      "subject": "Telecommunication technologies",
+      "teacher": [
+        68
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 169,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 170,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        72
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 172,
+      "type": "lecture",
+      "subject": "Program specification methods",
+      "teacher": [
+        74
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 173,
+      "type": "lecture",
+      "subject": "Business analytical systems development",
+      "teacher": [
+        51
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 174,
+      "type": "seminar",
+      "subject": "SQL-like languages composition semantics",
+      "teacher": [
+        73
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 176,
+      "type": "seminar",
+      "subject": "Selected sections of Working Law",
+      "teacher": [
+        65
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+    {
+      "id": 177,
+      "type": "labs",
+      "subject": "Telecommunication technologies",
+      "teacher": [
+        68
+      ],
+      "lectures_count": 1,
+      "multiple": 1
+    },
+
+    {
+      "id": 171,
+      "type": "seminar",
+      "subject": "Program correctness and logic",
+      "teacher": [
+        73
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+    {
+      "id": 180,
+      "type": "seminar",
+      "subject": "Program correctness and logic",
+      "teacher": [
+        73
+      ],
+      "lectures_count": 2,
+      "multiple": 1
+    },
+
+    {
+      "id": 178,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        43
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    },
+    {
+      "id": 179,
+      "type": "labs",
+      "subject": "Intellectual systems",
+      "teacher": [
+        72
+      ],
+      "lectures_count": 1,
+      "multiple": 0
+    }
+  ]
+}

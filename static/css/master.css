@@ -1,0 +1,27 @@
+:root {
+    --main: cornsilk;
+    --main-dark: #7F8688;
+    --main-light: #929D9E;
+    --highlight: #F3E367;
+}
+
+body {
+    background-color: var(--main);
+}
+
+header {
+    background-color: var(--main-dark);
+    color: var(--highlight);
+    font-size: 3em;
+    font-weight: bold;
+    display: flex;
+}
+
+header > img {
+    height: 1.5em;
+    margin: 0 0.5em;
+}
+
+.display-none {
+    display: none;
+}

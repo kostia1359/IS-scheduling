@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scheduling</title>
+
+    <link rel="icon" href="{{ url_for('static', filename='images/icons/calendar.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/master.css') }}">
+
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+
+    {% block scripts %}{% endblock %}
+</head>
+<body>
+    <header>
+        <img src="{{ url_for('static', filename='images/calendar.svg') }}" alt="">
+        <div>Scheduling system</div>
+    </header>
+    {% block content %}
+    {% endblock %}
+</body>
+</html>

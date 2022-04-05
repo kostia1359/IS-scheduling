@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "capacity": 15
+    },
+    {
+      "id": 2,
+      "capacity": 15
+    },
+    {
+      "id": 3,
+      "capacity": 15
+    },
+    {
+      "id": 6,
+      "capacity": 15
+    },
+    {
+      "id": 8,
+      "capacity": 15
+    },
+    {
+      "id": 9,
+      "capacity": 15
+    },
+    {
+      "id": 10,
+      "capacity": 15
+    },
+    {
+      "id": 13,
+      "capacity": 15
+    },
+    {
+      "id": 14,
+      "capacity": 15
+    },
+    {
+      "id": 15,
+      "capacity": 15
+    },
+    {
+      "id": 16,
+      "capacity": 15
+    },
+    {
+      "id": 17,
+      "capacity": 15
+    },
+    {
+      "id": 18,
+      "capacity": 15
+    },
+    {
+      "id": 33,
+      "capacity": 15
+    },
+    {
+      "id": 39,
+      "capacity": 150
+    },
+    {
+      "id": 41,
+      "capacity": 100
+    },
+    {
+      "id": 42,
+      "capacity": 100
+    },
+    {
+      "id": 43,
+      "capacity": 150
+    },
+    {
+      "id": 202,
+      "capacity": 30
+    },
+    {
+      "id": 203,
+      "capacity": 30
+    },
+    {
+      "id": 202,
+      "capacity": 30
+    },
+    {
+      "id": 203,
+      "capacity": 30
+    },
+    {
+      "id": 202,
+      "capacity": 30
+    },
+    {
+      "id": 204,
+      "capacity": 30
+    },
+    {
+      "id": 235,
+      "capacity": 30
+    },
+    {
+      "id": 234,
+      "capacity": 30
+    },
+    {
+      "id": 302,
+      "capacity": 30
+    },
+    {
+      "id": 303,
+      "capacity": 30
+    },
+    {
+      "id": 304,
+      "capacity": 30
+    },
+    {
+      "id": 305,
+      "capacity": 30
+    },
+    {
+      "id": 306,
+      "capacity": 30
+    },
+    {
+      "id": 307,
+      "capacity": 30
+    },
+    {
+      "id": 308,
+      "capacity": 30
+    },
+    {
+      "id": 309,
+      "capacity": 30
+    },
+    {
+      "id": 310,
+      "capacity": 30
+    },
+    {
+      "id": 311,
+      "capacity": 30
+    },
+    {
+      "id": 312,
+      "capacity": 30
+    },
+    {
+      "id": 704,
+      "capacity": 15
+    },
+    {
+      "id": 705,
+      "capacity": 30
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Anikushin A.V."
+    },
+    {
+      "id": 1,
+      "name": "Stavrovskii A.B."
+    },
+    {
+      "id": 2,
+      "name": "Chentsov A.V."
+    },
+    {
+      "id": 3,
+      "name": "Veklich R.A."
+    },
+    {
+      "id": 4,
+      "name": "Petrushenko A.M."
+    },
+    {
+      "id": 5,
+      "name": "Zatula D.V."
+    },
+    {
+      "id": 6,
+      "name": "Dashkov"
+    },
+    {
+      "id": 7,
+      "name": "Koval U.V."
+    },
+    {
+      "id": 8,
+      "name": "Gulyanitski A.L."
+    },
+    {
+      "id": 9,
+      "name": "Rabanovich V.I."
+    },
+    {
+      "id": 10,
+      "name": "Shevchenko V.P."
+    },
+    {
+      "id": 11,
+      "name": "Karnauch T.O."
+    },
+    {
+      "id": 12,
+      "name": "Molodsov A.I."
+    },
+    {
+      "id": 13,
+      "name": "Rublov B.V."
+    },
+    {
+      "id": 14,
+      "name": "Adzhubei L.T."
+    },
+    {
+      "id": 15,
+      "name": "Aleksandrovich I.M."
+    },
+    {
+      "id": 16,
+      "name": "Efremov"
+    },
+    {
+      "id": 17,
+      "name": "Rashitov"
+    },
+    {
+      "id": 18,
+      "name": "Doronina"
+    },
+    {
+      "id": 19,
+      "name": "Lyashenko"
+    },
+    {
+      "id": 20,
+      "name": "Bogun"
+    },
+    {
+      "id": 21,
+      "name": "Kosarevska"
+    },
+    {
+      "id": 22,
+      "name": "Slichna V.M."
+    },
+    {
+      "id": 23,
+      "name": "Lysenko"
+    },
+    {
+      "id": 24,
+      "name": "Palamarchuk"
+    },
+    {
+      "id": 25,
+      "name": "Nikolenko"
+    },
+    {
+      "id": 26,
+      "name": "Goncharenko"
+    },
+    {
+      "id": 27,
+      "name": "Kondratuk"
+    },
+    {
+      "id": 28,
+      "name": "Marynich"
+    },
+    {
+      "id": 29,
+      "name": "Lebedev"
+    },
+    {
+      "id": 30,
+      "name": "Yakimiv R.Y."
+    },
+    {
+      "id": 31,
+      "name": "Omelchuk L.L."
+    },
+    {
+      "id": 32,
+      "name": "Shkilnyak S.S."
+    },
+    {
+      "id": 33,
+      "name": "Kashpur O.F."
+    },
+    {
+      "id": 34,
+      "name": "Zavadskii I.O."
+    },
+    {
+      "id": 35,
+      "name": "Kulyabko P.P."
+    },
+    {
+      "id": 36,
+      "name": "Matsak I.K."
+    },
+    {
+      "id": 37,
+      "name": "Urachkivski A.P."
+    },
+    {
+      "id": 38,
+      "name": "Polishuk N."
+    },
+    {
+      "id": 39,
+      "name": "Rusina N.G."
+    },
+    {
+      "id": 40,
+      "name": "Golubeva K.M."
+    },
+    {
+      "id": 41,
+      "name": "Makushenko I.A."
+    },
+    {
+      "id": 42,
+      "name": "Livinska H.V."
+    },
+    {
+      "id": 43,
+      "name": "Fedorus O.M."
+    },
+    {
+      "id": 44,
+      "name": "Krivolap A.V."
+    },
+    {
+      "id": 45,
+      "name": "Onotskii V.V."
+    },
+    {
+      "id": 46,
+      "name": "Rybalko I.S."
+    },
+    {
+      "id": 47,
+      "name": "Timoshenko"
+    },
+    {
+      "id": 48,
+      "name": "Cholii V.Y"
+    },
+    {
+      "id": 49,
+      "name": "Derevyanchenko O.V."
+    },
+    {
+      "id": 50,
+      "name": "Voloshuk S.D."
+    },
+    {
+      "id": 51,
+      "name": "Panchenko T.V."
+    },
+    {
+      "id": 52,
+      "name": "Krak U.V."
+    },
+    {
+      "id": 53,
+      "name": "Anisimov V.A."
+    },
+    {
+      "id": 54,
+      "name": "Tereshenko V.M."
+    },
+    {
+      "id": 55,
+      "name": "Vergunova I.M."
+    },
+    {
+      "id": 56,
+      "name": "Shatirko A.V"
+    },
+    {
+      "id": 57,
+      "name": "Charchenko I.I."
+    },
+    {
+      "id": 58,
+      "name": "Orlov"
+    },
+    {
+      "id": 59,
+      "name": "Bobyl"
+    },
+    {
+      "id": 60,
+      "name": "Skobelev"
+    },
+    {
+      "id": 61,
+      "name": "Korobova M.V."
+    },
+    {
+      "id": 62,
+      "name": "Pashko A.O."
+    },
+    {
+      "id": 63,
+      "name": "Tkachenko"
+    },
+    {
+      "id": 64,
+      "name": "Kuzenko V.F."
+    },
+    {
+      "id": 65,
+      "name": "Kuzmenko G.V."
+    },
+    {
+      "id": 66,
+      "name": "Boguslavskii O.V."
+    },
+    {
+      "id": 67,
+      "name": "Hlibovets M.M."
+    },
+    {
+      "id": 68,
+      "name": "Zarembovskii K.V."
+    },
+    {
+      "id": 69,
+      "name": "Ryabokon D.I."
+    },
+    {
+      "id": 70,
+      "name": "Taranukha"
+    },
+    {
+      "id": 71,
+      "name": "Trochimchuk R.M."
+    },
+    {
+      "id": 72,
+      "name": "Bugaiov"
+    },
+    {
+      "id": 73,
+      "name": "Tkachenko"
+    },
+    {
+      "id": 74,
+      "name": "Shishatska"
+    }
+  ]
+}
